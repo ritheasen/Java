@@ -1,4 +1,4 @@
-
+package Variable;
 
 public class Main {
     static int staticVariable = 30;
